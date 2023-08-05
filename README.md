@@ -1,6 +1,6 @@
 # SoC 2023 Learning the Latent Structures in LLMs
 
-## REPORT: CHECKPOINT 1
+## FINAL REPORT
 
 ### Week 1-
 
@@ -47,3 +47,26 @@ It was a basic problem on neural networks, the only challenge being to write it 
 It was a simple, yet deep question. 
 
 Overall, I really enjoyed the Hackathon :))
+
+### Week 4-8:
+Caught up on Week 3 and read the resources and watched videos shared. 
+The final project was cancelled. 
+
+#### Topics covered:
+- Text pre-processing, including PoS tagging
+- Text classification
+- Using word embeddings
+- Recurrent Neural Networks
+- Coded up Andrej Karpathy's Micrograd to get a hang of making classes to use neural networks
+- Went deeper with Makemore by Andrej Karpathy
+- Watched Andrew Ng's course on RNNs
+    - Various RNN architectures
+    - Gated Recurrent Units (GRU)
+    - Long Short Term Memory (LSTM)
+    - Bidirectional RNNs
+    - Deep RNNs
+    - More on usage and understanding the rationale behind word embeddings
+
+### More in the video: 
+I go into the code for micrograd, and talk a little about RNNs and Word Embeddings
+[Drive link for the video]()
