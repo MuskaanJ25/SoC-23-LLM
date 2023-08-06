@@ -69,4 +69,4 @@ The final project was cancelled.
 
 ### More in the video: 
 I go into the code for micrograd, and talk a little about RNNs and Word Embeddings
-[Drive link for the video]()
+
